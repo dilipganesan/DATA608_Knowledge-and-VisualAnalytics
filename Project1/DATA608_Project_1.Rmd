@@ -1,0 +1,132 @@
+---
+title: "DATA608_Project_1"
+author: "Dilip Ganesan"
+date: "2/3/2018"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+if (!require("tidyverse")) install.packages('tidyverse')
+library(tidyverse)
+
+```
+
+# Project 1. Problem 1.
+
+
+
+```{r}
+inc <- read.csv("https://raw.githubusercontent.com/charleyferrari/CUNY_DATA_608/master/module1/Data/inc5000_data.csv", header= TRUE)
+
+head(inc)
+
+summary(inc)
+
+```
+
+## Question 1
+Create a graph that shows the distribution of companies in the dataset by State (ie how many are in each state). There are a lot of States, so consider which axis you should use. This visualization is ultimately going to be consumed on a 'portrait' oriented screen (ie taller than wide), which should further guide your layout choices.
+
+```{r}
+
+fig1=ggplot(inc)+
+  geom_bar(mapping = aes(x=(State)))+
+  coord_flip()+
+  labs(title="Top 5000 Fastest Growing Companies by State", 
+         caption="From: Inc Magazine",
+         y="Counts", 
+         x="State")
+fig1
+
+
+```
+
+## Question 2
+Lets dig in on the state with the 3rd most companies in the data set. Imagine you work for the state and are interested in how many people are employed by companies in different industries. Create a plot that shows the average and/or median employment by industry for companies in this state (only use cases with full data, use R's complete.cases() function.) In addition to this, your graph should show how variable the ranges are, and you should deal with outliers.
+
+
+```{r}
+#Step 1 : From the above chart, we can see NY has the third most highest companies.
+nydata = subset(inc,State=="NY")
+nydata = nydata[complete.cases(nydata$Industry),]
+nydata = nydata[complete.cases(nydata$Employees),]
+
+
+nyfig=ggplot(nydata)+
+  geom_bar(mapping = aes(x=(Industry)))+
+  coord_flip()+
+  labs(title="Industry Wise Count in NY", 
+         caption="From: Inc Magazine",
+         y="Counts", 
+         x="State")
+
+nyfig
+
+nyplot=ggplot(nydata, aes(x = Industry, y=Employees))
+nyplot + geom_boxplot() + 
+    coord_flip()
+```
+
+
+There is a problem with the above plot, since the outliers are heavy, the box plot does not convey information.
+To correct this, we have to plot without outliers.
+
+
+```{r}
+nydata = arrange(nydata, desc(Employees))
+lower = min(nydata$Employees)
+upper = max(nydata$Employees)
+
+nyplot = ggplot(nydata, aes(x = Industry, y=Employees))
+naoutplot = nyplot + 
+  geom_boxplot(outlier.shape = NA) +
+  scale_y_log10(limits = c(lower,upper))+ 
+    labs(title="NY Industry vs Employees Box Plot",
+         caption="From: Inc Magazine",
+         x="Industry",
+         y="Employees")+coord_flip()
+
+naoutplot
+
+```
+
+## Question 3
+
+Now imagine you work for an investor and want to see which industries generate the most revenue per employee. Create a chart that makes this information clear. Once again, the distribution per industry should be shown.
+
+```{r}
+totrevperemp = inc %>%
+                group_by(Industry) %>%
+                summarise(TotalRev = sum(Revenue, na.rm = TRUE), TotalEmp = sum(Employees, na.rm = TRUE)) %>%
+                mutate(ToTRevPerEmp = TotalRev/TotalEmp)
+
+       
+revplot = ggplot(totrevperemp, aes(x = Industry, y=ToTRevPerEmp))+
+          geom_bar(stat = "Identity")+
+          coord_flip()+
+          labs(title="Total Revenue Per Employee", 
+          caption="From: Inc Magazine",
+          y="Tot Rev Per Emp", 
+          x="Industry")
+revplot
+
+# Distribution of Industry using histogram.
+totrevperemp$by1000 = round((totrevperemp$ToTRevPerEmp/1000))
+
+ggplot(totrevperemp, aes(x=by1000)) + geom_histogram(binwidth = 40,colour="black", fill="white") 
+          
+
+
+
+```
+
+## References
+
+http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#3.%20Ranking
+
+https://stackoverflow.com/questions/5677885/ignore-outliers-in-ggplot2-boxplot
+
