@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<style>
+
+</style>
+
+<body>
+
+<div id="myDiv"></div>
+<svg width="960" height="600"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/topojson.v2.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script>
+
+Plotly.d3.csv('GunsData.csv', function(err, rows){
+      function unpack(rows, key) {
+          return rows.map(function(row) { return row[key]; });
+      }
+
+var scl = [[0,'rgb(5, 10, 172)'],[0.35,'rgb(40, 60, 190)'],[0.5,'rgb(70, 100, 245)'], [0.6,'rgb(90, 120, 245)'],[0.7,'rgb(106, 137, 247)'],[1,'rgb(220, 220, 220)']];
+
+var data = [{
+    type:'scattergeo',
+    locationmode: 'USA-states',
+    lon: unpack(rows, 'lon'),
+    lat: unpack(rows, 'lat'),
+    hoverinfor:  unpack(rows, 'Killed'),
+    text:  unpack(rows, 'Address'),
+    mode: 'markers',
+    marker: {
+      size: 8,
+      opacity: 0.8,
+      reversescale: true,
+      autocolorscale: false,
+      symbol: 'square',
+      line: {
+        width: 1,
+        color: 'rgb(102,102,102)'
+      },
+      colorscale: scl,
+      cmin: 0,
+      color: unpack(rows, 'Killed'),
+      colorbar: {
+         title: 'Number of People Killed by Gun Violence'
+      }
+    }
+}];
+
+
+var layout = {
+      title: 'Gun Violence in USA',
+      colorbar: true,
+      geo: {
+        scope: 'usa',
+        projection: {
+          type: 'albers usa'
+        },
+        showland: true,
+        landcolor: 'rgb(250,250,250)',
+        subunitcolor: 'rgb(217,217,217)',
+        countrycolor: 'rgb(217,217,217)',
+        countrywidth: 0.5,
+        subunitwidth: 0.5
+      }
+    };
+
+Plotly.plot(myDiv, data, layout, {showLink: false});
+
+});
+
+
+
+</script>
+
+</body>
