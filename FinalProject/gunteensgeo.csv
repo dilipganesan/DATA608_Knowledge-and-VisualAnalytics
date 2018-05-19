@@ -1,0 +1,501 @@
+"Incident.Date","State","City.Or.County","Address","X..Killed","X..Injured","Operations","lon","lat"
+"May 4, 2018","Illinois","Danville","900-block of Cleveland",0,1,"N/A",-86.1934117,41.653179
+"May 4, 2018","Texas","Dallas","Marsh Ln",0,1,"N/A",-96.8556149,32.9526701
+"May 4, 2018","Georgia","Atlanta","532 Cleveland Ave SW",0,1,"N/A",NA,NA
+"May 4, 2018","Wisconsin","Kenosha","61st St and 24th Ave",0,2,"N/A",NA,NA
+"May 4, 2018","Wisconsin","Milwaukee","1100 block of Marquette St",0,1,"N/A",-87.7931446,42.7341898
+"May 4, 2018","Illinois","Chicago","800 block of N Keeler Ave",0,2,"N/A",-87.7310011,41.8952721
+"May 3, 2018","North Dakota","Grand Forks","1006 S 12th St",4,0,"N/A",-85.7728754,38.240526
+"May 3, 2018","Texas","Baytown","Wisconsin St and Market St",0,2,"N/A",NA,NA
+"May 2, 2018","Missouri","Saint Louis","Bowers Ave and Rhea Ave",0,1,"N/A",-90.2049122,38.7785139
+"May 2, 2018","Virginia","Hampton","First block of Fulton St",1,0,"N/A",NA,NA
+"May 2, 2018","Illinois","Chicago","5000 block of W Washington Blvd",0,1,"N/A",-87.750452,41.8821439
+"May 2, 2018","Illinois","Chicago","1700 block of E 71st St",0,1,"N/A",-87.5833955,41.7664823
+"May 2, 2018","Colorado","Colorado Springs","3650 Maizeland Rd",0,1,"N/A",-104.7601963,38.8679809
+"May 2, 2018","Illinois","Chicago","6200 block of S California Ave",0,1,"N/A",-87.6937231,41.7808097
+"May 2, 2018","South Dakota","Yankton","N/A",1,0,"N/A",NA,NA
+"May 2, 2018","Virginia","Toano","2600 block of Little Creek Dam Rd",2,0,"N/A",-76.8280632,37.3514492
+"May 2, 2018","Illinois","Chicago","3500 block of W Grenshaw St",1,4,"N/A",-87.7130295,41.8672712
+"May 2, 2018","Missouri","Saint Louis","Page Ave and Euclid Ave",1,0,"N/A",-81.5783842,41.533789
+"May 2, 2018","Illinois","Chicago","3400 block of W Flournoy St",0,1,"N/A",-87.7109692,41.8729345
+"May 2, 2018","Minnesota","Minneapolis","2400 block of Ogema Place",0,6,"N/A",-93.2445806,44.9565123
+"May 2, 2018","Ohio","Cleveland","9300 Wade Park Ave",0,1,"N/A",-81.621926,41.515383
+"May 2, 2018","Illinois","Chicago","4100 block of W Madison St",0,1,"N/A",-87.728279,41.8808564
+"May 1, 2018","New York","Bronx","Prospect Ave and E 164th Ave",1,2,"N/A",-73.9000502,40.8234841
+"May 1, 2018","Indiana","Gary","2300 block of Whitcomb St",0,2,"N/A",-77.4174841,37.5542454
+"May 1, 2018","Illinois","Chicago","1200 block of S Avers Ave",0,1,"N/A",-87.7215073,41.8662101
+"May 1, 2018","Ohio","Cleveland","7000 block of Garden Valley Ave",0,1,"N/A",-75.220652,40.044459
+"May 1, 2018","California","Azusa","300 block of South Enid Avenue",1,0,"N/A",NA,NA
+"April 30, 2018","Tennessee","La Vergne","2017 George Buchanan Drive",1,0,"N/A",-86.5622994,36.0188542
+"April 30, 2018","Alabama","Birmingham","300 block of 14th St S",0,1,"N/A",-95.6038648,45.3128488
+"April 30, 2018","Texas","Christine","N/A",1,1,"N/A",-75.1975343,40.9869366
+"April 30, 2018","Pennsylvania","Bristol","300 block of Penn St",0,1,"N/A",NA,NA
+"April 30, 2018","North Carolina","Wilson","1600 block of Snowden Dr",0,1,"N/A",-80.0728087,26.6034086
+"April 30, 2018","Oklahoma","Tulsa","2000 block of N Columbia Pl",0,1,"N/A",NA,NA
+"April 29, 2018","Texas","Dallas","E Kiest Blvd and Cedar Crest Blvd",0,1,"N/A",NA,NA
+"April 29, 2018","Pennsylvania","Philadelphia","5100 block of Knox St",0,1,"N/A",-75.1680349,40.0274792
+"April 29, 2018","California","Morgan Hill","100 Cochrane Rd",0,1,"N/A",NA,NA
+"April 29, 2018","Illinois","Chicago","7100 block of S State St",0,1,"N/A",NA,NA
+"April 29, 2018","New Jersey","Jersey City","Wegman Pkwy",0,1,"N/A",NA,NA
+"April 29, 2018","Wisconsin","Milwaukee","3000 block on N 37th St",0,1,"N/A",-73.9839126,40.7508859
+"April 29, 2018","Florida","Jacksonville","Playschool Ln",0,1,"N/A",NA,NA
+"April 29, 2018","Maryland","Baltimore","700 block of N Patterson Park Ave",0,1,"N/A",NA,NA
+"April 28, 2018","Florida","Pensacola","6405 Wagner Rd",0,2,"N/A",-87.2735027,30.4917231
+"April 28, 2018","Illinois","Chicago","1800 block of N Monitor Ave",0,1,"N/A",-87.7718172,41.9130825
+"April 27, 2018","Nevada","Las Vegas","Dramatic Way",1,1,"N/A",NA,NA
+"April 27, 2018","California","Los Angeles","7730 S Western Ave",1,0,"N/A",NA,NA
+"April 27, 2018","Maryland","Baltimore","1400 block of Ashland Ave",0,1,"N/A",NA,NA
+"April 27, 2018","North Carolina","Lumberton","N/A",0,1,"N/A",NA,NA
+"April 27, 2018","Louisiana","New Orleans","2400 block of Touro Street",0,1,"N/A",-90.0603258,29.9815811
+"April 27, 2018","Virginia","Richmond","2200 block of Accommodation St",0,1,"N/A",NA,NA
+"April 27, 2018","South Carolina","Lumberton","Martin Luther King Jr Drive",0,1,"N/A",NA,NA
+"April 27, 2018","Louisiana","New Orleans","8800 block of Gervais",0,2,"N/A",NA,NA
+"April 27, 2018","South Carolina","Hanahan","Belvedere Dr",1,0,"N/A",-115.087895,36.063724
+"April 26, 2018","Arizona","El Mirage","Dysart Rd and Cactus Rd",1,1,"N/A",NA,NA
+"April 26, 2018","Illinois","Galesburg","S Pearl St and E 3rd St",0,1,"N/A",NA,NA
+"April 26, 2018","Rhode Island","Providence","Hamilton St and Congress Ave",0,1,"N/A",NA,NA
+"April 26, 2018","Connecticut","Bridgeport","Norman St",0,2,"N/A",-73.9006638,40.6977467
+"April 25, 2018","Louisiana","Shreveport","3000 block of Lindholm Street",0,1,"N/A",-93.7844434,32.467339
+"April 25, 2018","Illinois","Chicago","4800 block of W Monroe St",1,0,"N/A",NA,NA
+"April 24, 2018","Alabama","Birmingham","2501 31st Ave N",0,1,"N/A",NA,NA
+"April 24, 2018","California","San Diego","Olivewood Ter",1,0,"N/A",-117.1161429,32.7006346
+"April 24, 2018","Ohio","Lima","W North St and N Charles St",0,1,"N/A",NA,NA
+"April 24, 2018","Alabama","Birmingham","4016 37th Ave N",1,0,"N/A",NA,NA
+"April 24, 2018","Alabama","Mobile","1400 block of Ann St",0,1,"N/A",-86.2712997,32.3650417
+"April 24, 2018","Alaska","Mountain Village","N/A",1,0,"N/A",NA,NA
+"April 24, 2018","Illinois","Chicago","1900 block of S Saint Louis Ave",0,3,"N/A",NA,NA
+"April 24, 2018","New York","New York (Manhattan)","60 E 104th St",1,0,"N/A",-73.9495938,40.7917087
+"April 23, 2018","Texas","Abilene","US 84",0,1,"N/A",-93.5051746,32.0832329
+"April 23, 2018","Alabama","Birmingham","2501 31st Ave N",0,1,"N/A",-86.8194601,33.5521317
+"April 23, 2018","California","Bakersfield","Pioneer Dr",1,0,"N/A",-76.7071212,39.1175056
+"April 23, 2018","North Carolina","Greensboro","Hickory Tree Ln and Perth Pl",0,1,"N/A",-79.7141038,36.0559512
+"April 23, 2018","New Mexico","Las Cruces","Athenian Way",1,0,"N/A",-82.7552049,28.1548798
+"April 23, 2018","North Carolina","Kinston","2100 block of Old Snow Hill Rd",0,1,"N/A",NA,NA
+"April 23, 2018","Louisiana","Thibodaux","Carol St",0,1,"N/A",-73.4570516,41.3524488
+"April 23, 2018","Michigan","Detroit","12100 block of Wayburn St",0,1,"N/A",-82.947404,42.4290321
+"April 23, 2018","Connecticut","Hartford","219 Clark St",0,1,"N/A",-82.0923088,41.3685738
+"April 22, 2018","South Carolina","Orangeburg","1000 Presidential Dr",0,1,"N/A",-82.967005,35.457088
+"April 22, 2018","Michigan","Sterling Heights","1200 block of Corvair Dr",0,1,"N/A",-83.0027547,42.5579988
+"April 22, 2018","Louisiana","Paradis","100 block of Lynn Dr",1,1,"N/A",-84.9062289,38.0291284
+"April 22, 2018","Arkansas","Pine Bluff","E 26th Ave and S Indiana St",0,1,"N/A",-91.993771,34.2039259
+"April 22, 2018","Alaska","Anchorage","8800 block of McClellan Cir",0,1,"N/A",-149.937965,61.140902
+"April 22, 2018","California","Bakersfield","1300 block of Santiago Ct",1,1,"N/A",-119.016401,35.3047929
+"April 22, 2018","Illinois","Chicago","5400 block of W Gladys Ave",0,2,"N/A",-87.7596695,41.8759081
+"April 21, 2018","Oklahoma","Lawton","500 block of NW 3rd St",1,1,"N/A",-122.3956663,37.7808162
+"April 21, 2018","Pennsylvania","Pittsburgh","200 block of Rochelle St",0,1,"N/A",-79.9905813,40.4151042
+"April 21, 2018","Illinois","Chicago","2300 block of E 70th Pl",0,1,"N/A",-87.56944,41.7673879
+"April 21, 2018","Illinois","Chicago","9400 block of S Wabash Ave",1,1,"N/A",-87.6225908,41.723444
+"April 20, 2018","Oklahoma","Bethany","6940 NW 19th St",0,1,"N/A",-97.6328258,35.4897186
+"April 20, 2018","Louisiana","Baton Rouge","Avenue J",0,1,"N/A",NA,NA
+"April 20, 2018","Florida","Ocala","400 block of Water Ct",0,2,"N/A",-71.5587868,41.1736669
+"April 20, 2018","Indiana","Indianapolis","3800 block of Mill Crossing Dr",0,1,"N/A",NA,NA
+"April 20, 2018","Florida","Ocala","5000 SE Maricamp Rd",0,1,"N/A",-82.067566,29.141741
+"April 20, 2018","Illinois","Chicago","5200 block of S Winchester Ave",0,1,"N/A",-87.673569,41.7993
+"April 20, 2018","Louisiana","Baton Rouge","N/A",0,1,"N/A",NA,NA
+"April 20, 2018","Arizona","Phoenix","W Osborn Rd and N 71st Ave",0,1,"N/A",NA,NA
+"April 19, 2018","Tennessee","Memphis","3347 Dawn Dr",0,1,"N/A",-90.0373404,35.2171948
+"April 19, 2018","Michigan","Detroit","8400 block of Plainview Ave",0,1,"N/A",NA,NA
+"April 19, 2018","North Carolina","Greensboro","1515 Randolph Ave",0,1,"N/A",NA,NA
+"April 19, 2018","Illinois","Chicago","6800 block of S Wood St",0,1,"N/A",NA,NA
+"April 19, 2018","Illinois","Chicago","10600 block of S Bensley Ave",0,1,"N/A",NA,NA
+"April 18, 2018","Alabama","Mobile","550 Rickarby Street",0,1,"N/A",-88.0846375,30.6716078
+"April 18, 2018","North Carolina","Asheville","73 Hansel Ave",4,3,"N/A",NA,NA
+"April 18, 2018","Pennsylvania","Pittsburgh","7900 block of Susquehanna St",0,1,"N/A",NA,NA
+"April 17, 2018","Indiana","South Bend","1300 block of King St",0,1,"N/A",NA,NA
+"April 17, 2018","Virginia","Lynchburg","3200 block of Forest Brook Rd",0,1,"N/A",NA,NA
+"April 17, 2018","California","Oakland","8600 block of Bancroft Ave",0,1,"N/A",NA,NA
+"April 17, 2018","Georgia","Riverdale","Brookview Dr",1,0,"N/A",-84.4015097,33.5626764
+"April 17, 2018","Delaware","Harrington","50 block of Clark St",0,1,"N/A",NA,NA
+"April 16, 2018","Kansas","Wichita","800 block of N Battin St",0,1,"N/A",NA,NA
+"April 16, 2018","Georgia","Union City","5700 block of Rock Rd",1,0,"N/A",NA,NA
+"April 16, 2018","Alabama","Mobile","1200 block of Duval St",0,1,"N/A",NA,NA
+"April 16, 2018","Missouri","Kansas City","Truman Road and Hardesty Ave",1,1,"N/A",NA,NA
+"April 15, 2018","Mississippi","Greenwood","N/A",0,1,"N/A",NA,NA
+"April 15, 2018","South Carolina","Sumter","Peach St",1,0,"N/A",-80.0643644,42.0341192
+"April 15, 2018","Indiana","Fort Wayne","2700 block of Chestnut St",1,1,"N/A",-76.9282272,40.2389165
+"April 15, 2018","North Carolina","Greensboro","1316 Maple St",1,0,"N/A",NA,NA
+"April 15, 2018","Tennessee","Lebanon","921 Murfreesboro Rd",2,0,"N/A",NA,NA
+"April 15, 2018","Texas","Houston","6111 Glenmont Drk Dr",1,2,"N/A",-95.4912066,29.7188346
+"April 15, 2018","Louisiana","New Orleans","5900 block of Lafaye Street",0,1,"N/A",NA,NA
+"April 15, 2018","Tennessee","Memphis","2536 N Watkins St",1,0,"N/A",NA,NA
+"April 15, 2018","Rhode Island","Pawtucket","Main St and Lonsdale Ave",0,1,"N/A",NA,NA
+"April 15, 2018","Florida","Glen Saint Mary","9368 S Co Rd 125",1,2,"N/A",-106.1728473,40.4537077
+"April 15, 2018","Michigan","Battle Creek","69 Merritt St",1,1,"N/A",NA,NA
+"April 15, 2018","District of Columbia","Washington","5300 block of Bass Pl SE",0,1,"N/A",NA,NA
+"April 15, 2018","Louisiana","Shreveport","6956 Jewella Ave",0,6,"N/A",-93.7977288,32.442507
+"April 14, 2018","Louisiana","New Orleans","North Prieur St and Franklin Ave",2,1,"N/A",-90.0481547,29.9772129
+"April 14, 2018","Texas","Dallas","3500 block of Fordham Rd",1,1,"N/A",-96.7650535,32.7148933
+"April 14, 2018","Texas","Spring","1900 block of the N Fwy",0,1,"N/A",NA,NA
+"April 14, 2018","Tennessee","Nashville","2000 block of Hermosa St",0,2,"N/A",NA,NA
+"April 14, 2018","North Carolina","Lumberton","Roberts Ave",1,0,"N/A",-121.9555112,37.5267547
+"April 14, 2018","Illinois","Chicago","5200 block of W Harrison St",0,2,"N/A",-87.755078,41.87321
+"April 13, 2018","Missouri","Saint Louis","N 10th St and Manhattan Pl",0,1,"N/A",-90.1912057,38.6387779
+"April 13, 2018","Virginia","Portsmouth","2400 block of Airline Blvd",0,3,"N/A",NA,NA
+"April 13, 2018","Iowa","Marshalltown","700 block of May St",0,2,"N/A",-73.0270375,41.4918017
+"April 12, 2018","Pennsylvania","Harrisburg","5th St and Schuylkill St",1,0,"N/A",-76.8957805,40.2863169
+"April 12, 2018","Ohio","Cleveland","Mount Hermon Ave and Jelliffe St",1,0,"N/A",-81.6619295,41.4903544
+"April 12, 2018","Pennsylvania","Bethlehem","1515 Irene St",0,1,"N/A",-82.404634,36.323657
+"April 12, 2018","Missouri","Saint Louis","5700 block of Roosevelt Pl",0,1,"N/A",NA,NA
+"April 11, 2018","Kansas","Wichita","1500 block of E Arnold St",0,1,"N/A",NA,NA
+"April 11, 2018","Pennsylvania","Mc Kees Rocks (Mckees Rocks)","1100 block of Island Ave",2,1,"N/A",-80.2463114,26.6651551
+"April 10, 2018","Illinois","Chicago","7400 block of S Wabash Ave",0,1,"N/A",NA,NA
+"April 10, 2018","Georgia","Covington","350 Crestfield Cir",0,1,"N/A",NA,NA
+"April 9, 2018","Missouri","Reeds Spring","28 Crown Drive",4,0,"N/A",-119.3416863,46.2984619
+"April 9, 2018","Illinois","Chicago","6400 block of S Laflin St",0,1,"N/A",-87.6619565,41.7775381
+"April 9, 2018","Washington","Seattle (Seatac)","19408 International Blvd",0,2,"N/A",-122.2941783,47.4282164
+"April 9, 2018","Missouri","Saint Louis","1100 block of E Taylor Ave",0,1,"N/A",-90.2262186,38.6827243
+"April 9, 2018","Delaware","Wilmington","1100 block of W 3rd St",0,1,"N/A",NA,NA
+"April 9, 2018","North Carolina","High Point","1220 Turtle Rock Way",1,0,"N/A",-80.0586176,36.0008227
+"April 8, 2018","California","Bakersfield","3817 Fambrough Dr",1,1,"N/A",-119.0147933,35.3203402
+"April 8, 2018","Wisconsin","Milwaukee","2400 block of S 20th St",0,1,"N/A",NA,NA
+"April 8, 2018","South Carolina","Smoaks","8500 block of Augusta Hwy",2,0,"N/A",NA,NA
+"April 8, 2018","Michigan","Detroit","Shiawassee St and 8 Mile Rd",0,1,"N/A",NA,NA
+"April 8, 2018","Missouri","Saint Louis","3800 block of S Compton Ave",0,1,"N/A",NA,NA
+"April 8, 2018","Florida","Miami","1300 block of NW 63rd Terrace",2,2,"N/A",-80.2100008,26.2440418
+"April 7, 2018","Illinois","Chicago","5100 block of W Huron",1,1,"N/A",NA,NA
+"April 7, 2018","California","Richmond","20th St and MacDonald Ave",0,3,"N/A",NA,NA
+"April 7, 2018","District of Columbia","Washington","4700 block of Southern Ave SE",0,1,"N/A",NA,NA
+"April 7, 2018","Ohio","Toledo","3200 block of Stickney Ave",0,1,"N/A",-83.526651,41.681059
+"April 7, 2018","Ohio","Columbus","1700 block of Willoway Circle S",0,2,"N/A",NA,NA
+"April 7, 2018","Pennsylvania","Pittsburgh","Hillsboro St and Chartiers Ave",0,1,"N/A",NA,NA
+"April 7, 2018","Oklahoma","Jay","18945 E 420 Road",1,0,"N/A",NA,NA
+"April 6, 2018","District of Columbia","Washington","707 7th St NW",0,1,"N/A",NA,NA
+"April 6, 2018","Virginia","Norfolk","2500 block of Leo St",0,1,"N/A",-76.276077,36.8705659
+"April 6, 2018","Mississippi","Natchez","Winola Drive",1,0,"N/A",-91.4060885,31.4842729
+"April 6, 2018","Tennessee","Nashville","2320 2 Rivers Pkwy",0,1,"N/A",NA,NA
+"April 6, 2018","Ohio","Akron","134 E Tallmadge Rd",0,2,"N/A",NA,NA
+"April 5, 2018","Georgia","Dawsonville","72 Bryn Drive",3,1,"N/A",NA,NA
+"April 5, 2018","Oklahoma","Davis","Airport Rd",0,2,"N/A",NA,NA
+"April 5, 2018","Ohio","Cleveland","E 59th St and Woodland Ave",0,1,"N/A",NA,NA
+"April 5, 2018","Pennsylvania","New Kensington (Arnold)","1600 block of Leishman Ave",0,1,"N/A",NA,NA
+"April 5, 2018","Pennsylvania","Philadelphia","Angora Terrace and S 57th St",0,2,"N/A",NA,NA
+"April 4, 2018","South Carolina","Greenwood","Tennessee Ct",1,0,"N/A",NA,NA
+"April 4, 2018","Missouri","Kansas City","E 110th St and Sycamore Terrace",0,1,"N/A",-94.5014979,38.9256753
+"April 3, 2018","Texas","Houston","7401 Cullen Blvd",0,2,"N/A",NA,NA
+"April 3, 2018","Kansas","Wichita","2800 block of E Harry St",0,2,"N/A",NA,NA
+"April 2, 2018","Mississippi","Jackson","Elton Road",0,1,"N/A",-78.8264221,40.2794926
+"April 2, 2018","Illinois","Chicago","4000 block of W Congress Pkwy",0,2,"N/A",NA,NA
+"April 2, 2018","Tennessee","Hermitage","4716 Trenton Dr",0,1,"N/A",-86.5965418,36.2140422
+"April 2, 2018","New Mexico","Albuquerque","9000 Zuni Rd SE",1,0,"N/A",-106.548394,35.0723096
+"April 2, 2018","California","Oakland","1100 block of 23rd Ave",1,1,"N/A",NA,NA
+"April 1, 2018","Pennsylvania","Montoursville (Bella Vista)","8th St and South St",1,0,"N/A",-75.15549,39.9423979
+"April 1, 2018","California","Victorville","16100 block of Tawney Ridge Ln",0,2,"N/A",-117.3128635,34.538442
+"April 1, 2018","Michigan","Detroit","Schoenherr St and Lappin St",0,2,"N/A",-82.9851858,42.436972
+"April 1, 2018","Alabama","Mobile","3556 Halls Mill Rd",1,4,"N/A",-88.1228468,30.6387232
+"April 1, 2018","Florida","Saint Augustine","N McLaughlin St",0,3,"N/A",-117.7657815,47.7629367
+"April 1, 2018","Louisiana","Opelousas","4932 I-49 Frontage Rd",0,2,"N/A",-92.0710221,30.4989353
+"April 1, 2018","Pennsylvania","Philadelphia","57th St and Vine St",0,1,"N/A",-96.6429223,40.8207283
+"April 1, 2018","New York","Buffalo","N/A",0,1,"N/A",NA,NA
+"March 31, 2018","Ohio","Cleveland","E 103rd St and Aetna Rd",0,2,"N/A",NA,NA
+"March 31, 2018","Pennsylvania","Duquesne","400 block of Hamilton Ave",1,0,"N/A",-74.7478342,40.2160812
+"March 30, 2018","Pennsylvania","Croydon","Sycamore Ave",1,1,"N/A",-117.8278855,33.7280604
+"March 30, 2018","Mississippi","Meridian","107 71st Pl",1,0,"N/A",NA,NA
+"March 30, 2018","California","Montgomery Creek","Hwy 299 and Big Bend Rd",0,1,"N/A",-121.90734,40.8656551
+"March 30, 2018","Michigan","Flint","3200 block of S Dort Hwy",1,0,"N/A",NA,NA
+"March 30, 2018","Nevada","Henderson","4036 E Sunset Rd",1,2,"N/A",NA,NA
+"March 30, 2018","District of Columbia","Washington","5900 block of 13th St NW",0,1,"N/A",-82.353098,29.709844
+"March 29, 2018","Illinois","East Saint Louis","450 N 6th St",0,1,"N/A",-122.4034106,37.7763891
+"March 29, 2018","Tennessee","Memphis","1127 Springdale",1,0,"N/A",-89.9840596,35.1669857
+"March 28, 2018","Washington","Seattle (Burien)","Ambaum Blvd SW and SW 139th St",2,0,"N/A",-122.3479564,47.4785161
+"March 28, 2018","Indiana","Terre Haute","Golf Bag Ln",1,0,"N/A",-87.3538949,39.4056661
+"March 28, 2018","Indiana","East Chicago","4800 block of Northcote Ave",0,1,"N/A",-87.4849664,41.6272668
+"March 27, 2018","North Carolina","Charlotte","1700 Block of Eastcrest Dr",0,1,"N/A",-80.792626,35.215956
+"March 27, 2018","New Mexico","Albuquerque","N/A",0,1,"N/A",-75.1975343,40.9869366
+"March 27, 2018","California","Oxnard","2710 El Dorado Ave",0,2,"N/A",-119.148718,34.1742539
+"March 27, 2018","South Carolina","Clio","Woods Ave",0,1,"N/A",-118.1558434,34.0407842
+"March 27, 2018","Missouri","Saint Louis","5100 block of Kensington Ave",0,1,"N/A",-90.266942,38.65402
+"March 27, 2018","Florida","West Palm Beach","700 block of 43rd St",0,1,"N/A",-80.0577926,26.7512754
+"March 27, 2018","Mississippi","Cleveland","Wade Grove and Church Street",0,1,"N/A",-90.7198584,33.7357104
+"March 26, 2018","Illinois","Chicago","9400 block of S Yale Ave",0,1,"N/A",NA,NA
+"March 26, 2018","Illinois","Chicago","2500 block of E 79th St",0,3,"N/A",NA,NA
+"March 26, 2018","North Carolina","Greensboro","4411 Baker Ave",1,0,"N/A",NA,NA
+"March 25, 2018","Kentucky","Lexington","900 block of Whitney Ave",0,1,"N/A",NA,NA
+"March 25, 2018","Kansas","Wichita","800 block of S Pershing St",1,0,"N/A",-97.2824752,37.6739136
+"March 25, 2018","Illinois","Chicago","1700 block of N Western Ave",0,1,"N/A",NA,NA
+"March 25, 2018","Illinois","Chicago","5700 S Mozart St",0,1,"N/A",NA,NA
+"March 25, 2018","Pennsylvania","Johnstown","200 block of Boyer St",0,1,"N/A",NA,NA
+"March 25, 2018","Indiana","Syracuse","108 E Haiden Dr",0,1,"N/A",NA,NA
+"March 25, 2018","Georgia","Brunswick","104 Eagles Point Dr",1,0,"N/A",NA,NA
+"March 25, 2018","Alabama","Tuscaloosa","3200 block of 23rd St",0,1,"N/A",NA,NA
+"March 25, 2018","Minnesota","Minneapolis","2400 block of Ogema Pl",1,1,"N/A",-93.2445806,44.9565123
+"March 25, 2018","Florida","Titusville","Booker St and 3rd Ave",1,0,"N/A",NA,NA
+"March 24, 2018","Utah","Salt Lake City (West Valley City)","3180 South 5600 West",0,4,"N/A",NA,NA
+"March 24, 2018","Illinois","Chicago","800 block of Lawndale Ave",0,1,"N/A",-87.7187449,41.8954349
+"March 24, 2018","Georgia","Brunswick","219 Mall Blvd",0,1,"N/A",NA,NA
+"March 24, 2018","Maryland","Baltimore","3300 block of W Baltimore St",0,1,"N/A",NA,NA
+"March 24, 2018","Mississippi","Louisville","Mt Moriah Cir",1,0,"N/A",NA,NA
+"March 24, 2018","Indiana","South Bend","N Olive St and Elwood Ave",0,1,"N/A",NA,NA
+"March 24, 2018","Florida","Daytona Beach","609 Jean St",1,2,"N/A",NA,NA
+"March 24, 2018","Minnesota","Inver Grove Heights","5567 Bishop Ave",1,1,"N/A",NA,NA
+"March 24, 2018","Florida","Orlando","Stardust Ln",1,0,"N/A",-96.8853966,32.9337403
+"March 24, 2018","Pennsylvania","Philadelphia","Horrocks St and Haworth St",0,1,"N/A",NA,NA
+"March 24, 2018","Maryland","Baltimore","Edmondson Ave and Allendale St",0,2,"N/A",NA,NA
+"March 23, 2018","North Carolina","Raleigh","201 Lightner Ln",0,1,"N/A",NA,NA
+"March 23, 2018","Tennessee","Memphis","5000 block of Brekenwood Drive",0,2,"N/A",-90.0312957,35.2621722
+"March 23, 2018","New York","Canton (Pierrepont)","N/A",0,1,"N/A",-75.1975343,40.9869366
+"March 22, 2018","California","Bakersfield","1100 block of Webster St",0,1,"N/A",-122.4303729,37.7807429
+"March 22, 2018","Michigan","Clawson","1000 block of Coolidge Ave",0,1,"N/A",NA,NA
+"March 22, 2018","Ohio","Youngstown","700 block of Sherwood Ave",1,0,"N/A",NA,NA
+"March 22, 2018","Arizona","Kingman","3800 block of N Willow Rd",0,1,"N/A",NA,NA
+"March 21, 2018","California","San Francisco","949 Geneva Ave",1,5,"N/A",-122.4402435,37.7162639
+"March 21, 2018","Missouri","Saint Louis","1200 block of Scott Ave",0,1,"N/A",NA,NA
+"March 21, 2018","New York","Buffalo","Norway Park and Dodge St",1,0,"N/A",NA,NA
+"March 21, 2018","Illinois","Chicago","8000 block of S Halsted St",0,1,"N/A",NA,NA
+"March 21, 2018","California","Stockton","Montauban Ave",0,1,"N/A",NA,NA
+"March 20, 2018","Florida","Miami","NW 5th Ave and NW 7th St",0,2,"N/A",NA,NA
+"March 20, 2018","Maryland","Great Mills","21130 Great Mills Rd",2,1,"N/A",-76.4874855,38.2474912
+"March 20, 2018","Utah","Salt Lake City (West Valley City)","4369 S 5710 W",0,1,"N/A",-92.2463178,37.1469681
+"March 20, 2018","Pennsylvania","Pittsburgh","700 block of Princeton Blvd",0,1,"N/A",-71.3572474,42.6324808
+"March 20, 2018","Florida","Boca Raton","500 NE Spanish River Blvd",0,1,"N/A",NA,NA
+"March 20, 2018","Maryland","Baltimore","2500 block of Emerson St",0,1,"N/A",-104.975757,39.7532667
+"March 20, 2018","New Mexico","Albuquerque","Gun Club Rd and Kirk Ln",1,0,"N/A",-106.7252611,35.0118109
+"March 19, 2018","Indiana","Indianapolis","4100 block of N Riley Ave",0,1,"N/A",-86.085969,39.8311259
+"March 19, 2018","Illinois","Taylorville","500 block of S Walnut St",1,3,"N/A",NA,NA
+"March 19, 2018","Tennessee","Memphis","Lamar Ave",0,1,"N/A",-89.9441437,35.0684437
+"March 19, 2018","Ohio","Cincinnati","Reading Rd and McGregor Ave",0,2,"N/A",-84.5012684,39.1227264
+"March 19, 2018","Mississippi","Jackson","3500 block of Exchange Dr",0,2,"N/A",-90.2323745,32.2520987
+"March 18, 2018","Georgia","Athens","155 Hickman Dr",0,2,"N/A",-83.3785046,33.9620686
+"March 18, 2018","Ohio","Norwalk","Woodlawn Ave",0,1,"N/A",-75.06723,39.9204175
+"March 18, 2018","Louisiana","Lafayette","100 block of Wilbourn Boulevard",0,1,"N/A",-92.0754838,30.2084129
+"March 18, 2018","Colorado","Denver","3700 block of N Fillmore St",0,1,"N/A",-104.9533736,39.7683158
+"March 18, 2018","Ohio","Cleveland","2500 block of E 35th St",0,2,"N/A",NA,NA
+"March 18, 2018","Georgia","Macon","5411 Houston Rd",0,1,"N/A",NA,NA
+"March 18, 2018","South Carolina","Columbia","200 block of Berryhill Rd",1,1,"N/A",-81.1149615,34.0378509
+"March 18, 2018","Ohio","Columbus","2300 block of Vendome Dr",0,1,"N/A",NA,NA
+"March 17, 2018","Mississippi","Monroe (county)","N/A",1,0,"N/A",-75.1975343,40.9869366
+"March 17, 2018","Illinois","Oreana","200 block of S View St",0,2,"N/A",NA,NA
+"March 17, 2018","Oklahoma","Altus","500 block of Sleepy Hollow St",0,1,"N/A",NA,NA
+"March 17, 2018","Missouri","Saint Louis","5000 block of Beacon Ave",0,1,"N/A",-90.2518749,38.6940655
+"March 17, 2018","Colorado","Denver","3500 block of W Colfax Ave",1,0,"N/A",-105.0334999,39.7403513
+"March 17, 2018","Louisiana","New Orleans","2300 block of Second Street",0,1,"N/A",NA,NA
+"March 16, 2018","California","Fresno","1000 block of E Sampson Ave",0,1,"N/A",-121.9674726,45.3502183
+"March 16, 2018","Tennessee","Nashville","40th Ave N and Clifton St",0,1,"N/A",NA,NA
+"March 16, 2018","Illinois","Chicago","5000 block of N Albany Ave",0,1,"N/A",NA,NA
+"March 15, 2018","Virginia","Newport News","100 block of Jefferson Point Ln",0,2,"N/A",NA,NA
+"March 15, 2018","Alabama","Huntsville","1901 Sparkman Dr NW",1,1,"N/A",NA,NA
+"March 15, 2018","Virginia","Hampton","76th St and Mytilene Dr",0,1,"N/A",NA,NA
+"March 15, 2018","Ohio","Cincinnati (Forest Park)","1000 block of Hamlet Dr",0,2,"N/A",NA,NA
+"March 15, 2018","Ohio","Canton","1700 block of 15th St SW",0,3,"N/A",-97.5440398,35.4494428
+"March 14, 2018","Louisiana","Baton Rouge","Arizona Street",0,1,"N/A",NA,NA
+"March 14, 2018","New York","Brooklyn","345 Thatford Ave",4,0,"N/A",NA,NA
+"March 14, 2018","Pennsylvania","Chester","700 block of Lamokin St",0,1,"N/A",NA,NA
+"March 14, 2018","Texas","San Antonio","100 block of Denver Blvd",1,0,"N/A",NA,NA
+"March 13, 2018","Ohio","Cincinnati","200 block of Strader Avenue",0,1,"N/A",NA,NA
+"March 13, 2018","Missouri","Saint Louis","4300 block of Cote Brilliante Ave",0,1,"N/A",NA,NA
+"March 13, 2018","Virginia","Hampton (Langley AFB)","1798 First St",0,1,"N/A",NA,NA
+"March 13, 2018","California","Seaside","2200 Noche Buena St",0,1,"N/A",NA,NA
+"March 13, 2018","Texas","Irving","4600 W Pioneer Dr",0,1,"N/A",NA,NA
+"March 13, 2018","Maryland","Baltimore","North Ave and Broadway",0,1,"N/A",NA,NA
+"March 12, 2018","Kentucky","Shelbyville","511 Hunting Hills Drive",2,0,"N/A",-85.2336217,38.2184345
+"March 12, 2018","Texas","Beaumont","1300 block of Loop Rd",0,1,"N/A",-78.4173026,35.6730611
+"March 12, 2018","Texas","El Paso","5200 block of Wren Ave",1,0,"N/A",NA,NA
+"March 12, 2018","Alabama","Montgomery","3500 block of Wilmington Road",0,1,"N/A",NA,NA
+"March 12, 2018","Michigan","Midland","2019 E Ashman St",1,0,"N/A",NA,NA
+"March 12, 2018","Maryland","Baltimore","100 block of Allendale St",0,3,"N/A",NA,NA
+"March 12, 2018","Illinois","Chicago","5700 block of W Irving Park Rd",0,1,"N/A",NA,NA
+"March 12, 2018","Alabama","Birmingham","3500 block of Wilmington Rd",0,1,"N/A",-86.3011034,32.3407999
+"March 12, 2018","Ohio","Cleveland","E 37th St and Capers Ave",0,2,"N/A",-81.6618767,41.4926837
+"March 11, 2018","Tennessee","Antioch","1104 Hickory Hollow Terr",0,2,"N/A",NA,NA
+"March 11, 2018","Indiana","South Bend","800 block of E Dayton St",0,6,"N/A",NA,NA
+"March 11, 2018","Michigan","Detroit","LaSalle and Glendale",0,1,"N/A",NA,NA
+"March 11, 2018","Georgia","Atlanta","7000 block of Absinth Dr",0,1,"N/A",-84.6405832,33.6724881
+"March 11, 2018","Texas","Houston","3400 block of Liberty Rd",0,2,"N/A",-95.3356188,29.7844909
+"March 10, 2018","Washington","Seattle","3804 E Superior St",0,1,"N/A",-122.2856189,47.6031928
+"March 10, 2018","Michigan","Mancelona","Mancelona E Jordan Rd and Green River Rd",1,1,"N/A",-85.0599826,44.9893831
+"March 10, 2018","Louisiana","Port Sulphur","Giraud Street",0,3,"N/A",NA,NA
+"March 10, 2018","Alabama","Ozark","King Street",0,2,"N/A",-77.0798859,38.8216299
+"March 10, 2018","North Carolina","Henderson","Pinkston Street",1,0,"N/A",-78.3866947,36.324727
+"March 9, 2018","California","Bakersfield","1200 block of E 10th St",1,2,"N/A",-118.1761953,33.7787763
+"March 9, 2018","California","San Diego","800 block of S 29th St",0,1,"N/A",-111.9567223,41.212094
+"March 9, 2018","Kentucky","Lexington","2000 Winchester Rd",0,1,"N/A",-81.4872589,41.5054818
+"March 9, 2018","Illinois","Chicago","4400 block of W Carroll Ave",0,1,"N/A",-87.7358248,41.8870879
+"March 9, 2018","Illinois","Chicago","7200 block of S Merrill Ave",0,1,"N/A",NA,NA
+"March 9, 2018","Illinois","Chicago","5200 block of N Winthrop Ave",0,1,"N/A",-87.6580937,41.9765018
+"March 9, 2018","Tennessee","Portland","Sumner Dr",0,1,"N/A",-77.406371,39.4667872
+"March 8, 2018","Michigan","Inkster","572 Tobin Dr",0,1,"N/A",NA,NA
+"March 8, 2018","Georgia","Atlanta (College Park)","6300 Block of Topaz Trail",0,1,"N/A",-84.4756023,33.5827339
+"March 8, 2018","New York","Bronx","427 E 146th St",0,1,"N/A",-73.9179186,40.8137505
+"March 8, 2018","Illinois","Rockford","600 block of Fisher Ave",0,1,"N/A",-89.0925337,42.279673
+"March 8, 2018","Virginia","Fredericksburg","Tangible Ct",1,0,"N/A",NA,NA
+"March 8, 2018","New York","Rochester","8th St",0,2,"N/A",NA,NA
+"March 8, 2018","Illinois","Chicago","800 block of N Waller Ave",1,0,"N/A",NA,NA
+"March 8, 2018","Oklahoma","Tulsa","2496 N Marion Ave",1,0,"N/A",-95.9345005,36.1899217
+"March 7, 2018","California","San Jose","3000 block of Cadillac Dr",0,1,"N/A",-103.1656317,44.0738858
+"March 7, 2018","Virginia","Richmond","1900 block of Raven St",1,1,"N/A",-77.4216492,37.5500137
+"March 7, 2018","Alabama","Birmingham","950 Springville Rd",1,2,"N/A",NA,NA
+"March 7, 2018","California","Moreno Valley","23577 Sunnymead Ranch Pkwy",2,0,"N/A",-117.2528776,33.9687006
+"March 7, 2018","California","Santa Cruz","2000 block of Soquel Ave",0,2,"N/A",NA,NA
+"March 6, 2018","California","Fairfield","Clay Bank Rd and Sprig Ct",0,1,"N/A",NA,NA
+"March 6, 2018","Arizona","Glendale","47th Ave and Maryland Ave",0,1,"N/A",-112.1600447,33.5311966
+"March 6, 2018","Missouri","Kansas City","1600 block of E 80th Street",1,1,"N/A",NA,NA
+"March 6, 2018","Illinois","Chicago","1000 N Pulaski Rd",1,0,"N/A",NA,NA
+"March 6, 2018","Illinois","Harvey","148th Ave and Turlington St",0,3,"N/A",-87.6478339,41.6207989
+"March 6, 2018","Georgia","Columbus","2000 Cusseta Rd",0,1,"N/A",NA,NA
+"March 5, 2018","Missouri","Cadet","10047 Diamond Rd",1,0,"N/A",-89.7729502,29.5452184
+"March 5, 2018","Florida","Kissimmee","2507 N Beaumont Ave",2,0,"N/A",NA,NA
+"March 5, 2018","Ohio","Columbus","2800 block of Falcon Bridge Dr",0,2,"N/A",NA,NA
+"March 5, 2018","Pennsylvania","Philadelphia","2900 block of N 5th St",0,2,"N/A",-75.1397391,39.995312
+"March 5, 2018","Colorado","Aurora","15500 block of E 13th Ave",0,1,"N/A",NA,NA
+"March 5, 2018","Kentucky","Louisville","Candace Way and Cogan Boulevard",1,1,"N/A",NA,NA
+"March 4, 2018","Oklahoma","Oklahoma City","N Kelley Ave and NE 36th St",0,2,"N/A",-97.4943795,35.507727
+"March 4, 2018","North Carolina","Durham","2800 block of Courtney Creek Blvd",1,0,"N/A",NA,NA
+"March 4, 2018","Illinois","Chicago","4900 W Rice St",0,3,"N/A",NA,NA
+"March 4, 2018","Tennessee","Nashville","2000 block of 25th Ave N",0,1,"N/A",NA,NA
+"March 4, 2018","Georgia","Atlanta","800 block of Mercury Drive",1,0,"N/A",NA,NA
+"March 4, 2018","Wisconsin","Milwaukee","930 N 27th St",0,1,"N/A",NA,NA
+"March 3, 2018","Florida","Miami","1300 Block of NW 62nd Ln",0,4,"N/A",NA,NA
+"March 3, 2018","Iowa","Des Moines","1600 block of Hull Ave",0,1,"N/A",NA,NA
+"March 3, 2018","Illinois","Cherry Valley","4672 Chandon Woods Dr",3,0,"N/A",-88.9844241,42.2148457
+"March 2, 2018","Ohio","Cincinnati","3300 block of Wabash Ave",1,0,"N/A",-89.7157886,39.7588646
+"March 2, 2018","Texas","Houston","6002 Wortham Way",0,1,"N/A",-95.3281011,29.6718291
+"March 2, 2018","North Carolina","Charlotte","Starhaven Drive",0,1,"N/A",NA,NA
+"March 2, 2018","Illinois","Chicago","3500 S Ashland Ave",1,0,"N/A",NA,NA
+"March 2, 2018","Missouri","Saint Louis","3900 block of Lexington Ave",0,1,"N/A",-96.7985545,32.8270491
+"March 2, 2018","Michigan","Detroit","2900 block of Lakewood St",0,1,"N/A",-82.9517625,42.3824893
+"March 2, 2018","Illinois","Rockford","N/A",0,1,"N/A",-75.1975343,40.9869366
+"March 1, 2018","Ohio","Cleveland","Westropp Ave and E 143rd St",1,0,"N/A",-81.582233,41.56845
+"March 1, 2018","Alabama","Tuscaloosa","1750 40th Ave",0,1,"N/A",-122.4987512,37.7541662
+"March 1, 2018","Illinois","Chicago","3900 W Monroe St",0,1,"N/A",-87.723372,41.880066
+"March 1, 2018","Arizona","Phoenix","43rd Ave and Bethany Home Rd",0,1,"N/A",-112.1515321,33.5239213
+"February 28, 2018","Indiana","Evansville","Haven Dr",0,1,"N/A",-86.9015738,33.5610234
+"February 28, 2018","Tennessee","Memphis","National St and Fairoaks Ave",0,2,"N/A",-89.9441277,35.1687497
+"February 28, 2018","Florida","Orlando","10536 Moss Park Rd",0,1,"N/A",NA,NA
+"February 28, 2018","Texas","Corpus Christi","2700 block of Waldron Rd",0,1,"N/A",NA,NA
+"February 28, 2018","Mississippi","Richland","400 block of Ebenezer Road",2,1,"N/A",-84.0740223,35.906126
+"February 28, 2018","Texas","Houston","9900 Club Creek Dr",0,1,"N/A",-95.5504993,29.6814724
+"February 28, 2018","South Carolina","Greenwood","1205 SC 72",1,0,"N/A",-82.1478163,34.2098122
+"February 27, 2018","Illinois","Chicago","2100 block of S Oakley Ave",0,1,"N/A",-87.6832136,41.8538977
+"February 27, 2018","Alabama","Atmore","300 block of East 4th St",0,1,"N/A",-118.1886489,33.7713759
+"February 26, 2018","Maryland","Burtonsville","13900 block of Old Columbia Pike",0,1,"N/A",-76.9514487,39.0850961
+"February 26, 2018","Illinois","Chicago","4400 S Whipple St",0,1,"N/A",-87.7009226,41.8134924
+"February 26, 2018","California","Santa Cruz","2911 Chanticleer Ave",0,1,"N/A",-121.97837,36.9882672
+"February 25, 2018","Illinois","Chicago","4200 W Jackson Blvd",0,1,"N/A",NA,NA
+"February 25, 2018","Nebraska","Omaha","25th St and Crown Point Ave",1,1,"N/A",NA,NA
+"February 25, 2018","Florida","Pensacola","Moreno Ct",0,1,"N/A",-115.2912494,36.2248083
+"February 25, 2018","Alabama","Birmingham","7001 Crestwood Blvd",0,1,"N/A",-86.7312359,33.5276761
+"February 25, 2018","California","West Covina","Van Horn Ave and Elder St",0,1,"N/A",NA,NA
+"February 25, 2018","California","Fresno","Cedar Ave and Huntington Ave",1,1,"N/A",NA,NA
+"February 25, 2018","Texas","Arlington","600 block of W Inwood Ave",1,1,"N/A",-97.1130793,32.7151843
+"February 25, 2018","Illinois","Chicago","4700 W North Ave",0,2,"N/A",-87.7436534,41.9100351
+"February 25, 2018","Texas","Converse","10100 block of Macarthur Way",1,0,"N/A",NA,NA
+"February 25, 2018","South Carolina","Columbia","1400 block of  Andrews Rd",1,1,"N/A",-84.0112352,35.1061951
+"February 24, 2018","Virginia","Hampton","2000 block of Cunningham Dr",0,1,"N/A",NA,NA
+"February 24, 2018","California","Stockton","Antoine Ct and Don Ave",1,0,"N/A",-121.345522,38.0278304
+"February 24, 2018","Texas","Dallas","5700 block of Highland Hills Dr",1,1,"N/A",NA,NA
+"February 24, 2018","Delaware","Wilmington","N/A",0,1,"N/A",NA,NA
+"February 24, 2018","Illinois","Chicago","8600 S Michigan Ave",1,0,"N/A",-87.6210407,41.7382392
+"February 23, 2018","North Carolina","Fuquay Varina","1051 E Broad St",0,2,"N/A",-77.1572471,38.8736917
+"February 23, 2018","Oklahoma","Bartlesville","4000 Green Country Rd",0,1,"N/A",NA,NA
+"February 23, 2018","California","Fresno","Holloway Ave and Jensen Ave",0,1,"N/A",NA,NA
+"February 23, 2018","Ohio","Canal Fulton","Portage Rd and Akron Ave",2,0,"N/A",-81.9085538,40.8284016
+"February 23, 2018","Mississippi","Mccomb","112 W Alley",1,0,"N/A",-85.1408514,41.1181012
+"February 23, 2018","Pennsylvania","Philadelphia","4132 N Broad St",0,1,"N/A",-75.1499549,40.0162973
+"February 23, 2018","Louisiana","New Orleans","S Roman St and Toledano St",0,1,"N/A",-90.0970467,29.9435415
+"February 23, 2018","Louisiana","Monroe","Curtis Rd and Swartz Fairbanks Rd",1,0,"N/A",NA,NA
+"February 22, 2018","Florida","Orlando","1500 block of Echo Lake Ct",1,0,"N/A",NA,NA
+"February 22, 2018","Florida","Apopka","13th St and Hawthorne Ave",0,1,"N/A",NA,NA
+"February 22, 2018","Oklahoma","Tulsa","S 131st E Ave and E 31st St",0,1,"N/A",NA,NA
+"February 22, 2018","Missouri","Saint Louis","1200 block of Hoyt Dr",3,0,"N/A",NA,NA
+"February 22, 2018","Pennsylvania","Allentown","200 block of N 15th St",0,1,"N/A",NA,NA
+"February 22, 2018","Texas","Houston","8900 Chimney Rock Rd",0,1,"N/A",NA,NA
+"February 21, 2018","Texas","Killeen","1700 block of Spring Rose Cir",1,0,"N/A",NA,NA
+"February 21, 2018","Maryland","Baltimore","100 block of Mount St",0,1,"N/A",NA,NA
+"February 21, 2018","Texas","Houston","8850 Chimney Rock Rd",0,1,"N/A",-95.4776173,29.6823074
+"February 20, 2018","Ohio","Massillon","7355 Mudbrook St NW",1,0,"N/A",NA,NA
+"February 20, 2018","Virginia","Newport News","Maple Ave and 19th St",0,1,"N/A",-87.8025044,41.8539092
+"February 20, 2018","Texas","El Paso","7100 block of Dale Rd",1,0,"N/A",NA,NA
+"February 20, 2018","New York","Syracuse","300 block of Oakwood Ave",0,1,"N/A",-84.1791406,39.7301471
+"February 20, 2018","Pennsylvania","Philadelphia","5600 block of Sansom St",0,1,"N/A",NA,NA
+"February 20, 2018","Illinois","Batavia","1901 McKee St",0,1,"N/A",NA,NA
+"February 19, 2018","Illinois","Chicago","700 E 82nd St",0,2,"N/A",NA,NA
+"February 19, 2018","Illinois","Chicago","7600 S Champlain Ave",1,1,"N/A",NA,NA
+"February 19, 2018","Illinois","Chicago","4000 E 134th St",0,1,"N/A",-87.5293894,41.6524898
+"February 19, 2018","Illinois","Chicago","4300 block of S Hermitage Ave",0,2,"N/A",-87.6688048,41.815812
+"February 18, 2018","Virginia","Chesapeake","2300 block of Herring Ditch Rd",0,1,"N/A",-76.329296,36.6889798
+"February 18, 2018","Illinois","Chicago","4000 E 134th St",0,1,"N/A",NA,NA
+"February 18, 2018","Wisconsin","Madison","Worthington Ave",0,1,"N/A",NA,NA
+"February 18, 2018","District of Columbia","Washington","3100 block of Bruce Pl SE",0,1,"N/A",NA,NA
+"February 18, 2018","Arizona","Sierra Vista","77 El Camino Real",1,0,"N/A",-121.5020554,36.5538553
+"February 18, 2018","Oregon","Portland","SE 36th Ave and Van Water St",0,1,"N/A",NA,NA
+"February 17, 2018","Indiana","South Bend","4300 block of Silver Ln",1,0,"N/A",NA,NA
+"February 17, 2018","Ohio","Cleveland","3100 block of W 32nd St",0,1,"N/A",NA,NA
+"February 17, 2018","Tennessee","Jackson","Raintree Cove",1,0,"N/A",-88.86354,35.6519589
+"February 17, 2018","Louisiana","Baton Rouge","6117 Cadillac St",1,0,"N/A",-91.128921,30.5188079
+"February 17, 2018","Tennessee","Memphis","3456 Lamar Ave",0,1,"N/A",-89.9480553,35.0747206
+"February 17, 2018","Utah","Salt Lake City (West Valley City)","3980 S 5600 W",0,1,"N/A",NA,NA
+"February 17, 2018","Mississippi","Greenwood","2638 Luther Dr",1,0,"N/A",-93.6197481,42.049127
+"February 17, 2018","South Carolina","Columbia","Benedict St",1,0,"N/A",-71.4370163,41.8053389
+"February 16, 2018","Florida","Tampa","N 24th St and E Curtis Ave",0,2,"N/A",-82.4326783,27.9880308
+"February 16, 2018","Colorado","Denver","W 30th Ave and Vallejo St",0,1,"N/A",-105.0131456,39.7596513
+"February 16, 2018","District of Columbia","Washington","4200 block of 7th St SE",1,1,"N/A",-122.2878534,47.1620323
+"February 16, 2018","Virginia","Hampton","3300 block of Custer Ln",0,1,"N/A",-96.962196,37.6938305
+"February 16, 2018","Pennsylvania","Philadelphia","200 block of S 52nd St",0,1,"N/A",-77.044493,38.904548
+"February 16, 2018","Tennessee","Humboldt","N 18th St",0,1,"N/A",-75.1632767,39.9840296
+"February 16, 2018","Ohio","Canton","5600 block of Frank Ave NW",0,1,"N/A",-81.4417557,40.862244
+"February 16, 2018","North Carolina","Raleigh","Sunbow Falls Ln",0,1,"N/A",-78.6103888,35.8457589
+"February 16, 2018","Illinois","Chicago","1800 S Ridgeway Ave",0,1,"N/A",-87.7188042,41.8570905
+"February 16, 2018","Illinois","Chicago","1700 W Beach Ave",0,1,"N/A",NA,NA
+"February 16, 2018","Louisiana","New Orleans","2100 block of Pauger",1,1,"N/A",-90.0607641,29.9715019
+"February 16, 2018","Louisiana","Shreveport","2400 block of Jones Mabry Rd",0,1,"N/A",-93.8072056,32.5509402
+"February 15, 2018","Texas","Houston","3200 block of Anita St",0,1,"N/A",NA,NA
+"February 15, 2018","California","Santa Barbara","E Camino Cielo",1,0,"N/A",NA,NA
+"February 15, 2018","Florida","Lehigh Acres","100 block of McArthur Ave",0,1,"N/A",NA,NA
+"February 15, 2018","Florida","Jacksonville","Lansdowne Dr",0,1,"N/A",-78.9537003,36.0778648
+"February 15, 2018","Louisiana","Baton Rouge","5765 Prescott Road",1,0,"N/A",-91.1330856,30.4879824
+"February 15, 2018","Texas","Arlington","4721 S Cooper St",0,1,"N/A",NA,NA
+"February 14, 2018","Texas","Amarillo","401 SE 2nd Ave",0,1,"N/A",NA,NA
+"February 14, 2018","Florida","Pompano Beach (Parkland)","5901 Pine Island Rd",17,17,"N/A",-80.269457,26.304503
+"February 14, 2018","Arkansas","Pearcy","400 block of Ryan Rd",0,1,"N/A",NA,NA
+"February 14, 2018","Florida","Port Richey","6349 Ridgecrest Dr",1,0,"N/A",-92.3438198,34.7579498
+"February 14, 2018","Virginia","Centreville","13000 block of Jeb Stuart Square",1,0,"N/A",NA,NA
+"February 13, 2018","Utah","Salt Lake City (West Valley City)","3510  W Parkway Blvd",1,2,"N/A",-111.9751621,40.7113444
+"February 13, 2018","Utah","Salt Lake City (South Salt Lake)","3100 S 300 E",1,0,"N/A",-111.8830593,40.7034799
+"February 13, 2018","Illinois","Chicago","700 S St Louis Ave",0,1,"N/A",NA,NA
+"February 13, 2018","Florida","Deland","715 Wright Ct",0,1,"N/A",NA,NA
+"February 13, 2018","Pennsylvania","Philadelphia","5200 block of Walnut St",0,1,"N/A",NA,NA
+"February 13, 2018","Louisiana","New Orleans","700 block of Union St",0,2,"N/A",NA,NA
+"February 13, 2018","Texas","Houston","6400 South Dairy Ashford Rd",0,1,"N/A",NA,NA
+"February 12, 2018","Arizona","Glendale","7910 N 43rd Ave",0,1,"N/A",NA,NA
+"February 12, 2018","Virginia","Newport News","32nd St and Marshall Ave",1,0,"N/A",NA,NA
+"February 12, 2018","Pennsylvania","York","200 block of S Penn St",1,1,"N/A",-75.2925871,39.9288763
+"February 12, 2018","Alabama","Birmingham","5001 Sugar Ray Dr",0,2,"N/A",NA,NA
+"February 12, 2018","Illinois","Chicago","5200 S Morgan St",0,2,"N/A",-87.650443,41.7995354
+"February 12, 2018","Texas","Dallas","7611 Umphress Rd",1,1,"N/A",-96.6913931,32.742429
+"February 11, 2018","Alabama","Pinson","4400 block of Winchester Hills Way",1,0,"N/A",-86.65837,33.6626819
+"February 10, 2018","North Carolina","Reidsville","1100 block of Deerfield Dr",0,1,"N/A",-79.6776565,36.3747484
+"February 10, 2018","Florida","Oak Hill","287 Wood Ave",1,0,"N/A",-74.3367064,40.5760211
+"February 10, 2018","New Jersey","Newark","Kent St",1,0,"N/A",-71.1127327,42.3383606
+"February 10, 2018","Florida","Jacksonville","800 Block of Superior St",0,1,"N/A",NA,NA
+"February 9, 2018","California","San Diego","800 block of S 29th St",0,1,"N/A",NA,NA
+"February 9, 2018","Tennessee","Nashville","717 25th Ave N",0,1,"N/A",NA,NA
+"February 9, 2018","Tennessee","Nashville","904 26th Ave N",0,1,"N/A",NA,NA
+"February 9, 2018","Tennessee","Memphis","3874 Macon Rd",2,0,"N/A",-89.9315547,35.1626018
+"February 9, 2018","Mississippi","Moss Point","3525 Rollins St",1,0,"N/A",-88.5514526,30.4048344
+"February 9, 2018","North Carolina","Durham","Eva Street and Railroad Street",1,0,"N/A",-78.8898788,35.9935628
+"February 9, 2018","Delaware","Wilmington","200 block of W 23rd St",0,1,"N/A",-73.9956719,40.7441147
+"February 9, 2018","Louisiana","Shreveport","700 block W. 69th Street",0,1,"N/A",-74.0160268,40.6310312
+"February 8, 2018","California","Santa Rosa","3600 block of Melcon Ln",1,2,"N/A",NA,NA
+"February 8, 2018","California","Fresno","2624 S Elm Ave",0,1,"N/A",-119.7915933,36.7059831
+"February 8, 2018","Florida","Jacksonville","2000 block of Lewis St",0,2,"N/A",-117.8985496,33.7639882
+"February 8, 2018","Illinois","Chicago","600 N Laramie Ave",1,0,"N/A",NA,NA
+"February 8, 2018","Florida","Myakka City","14930 Albritton Rd",1,0,"N/A",-82.136064,27.269926
+"February 8, 2018","Texas","Lubbock","5010 I-27",1,0,"N/A",-101.846001,33.5483531
+"February 8, 2018","Alaska","Fairbanks","N/A",1,0,"N/A",-75.1975343,40.9869366
+"February 8, 2018","New York","Corona (Queens)","Beach 47th St and Beach Channel Dr",1,0,"N/A",-73.7782169,40.5954985
+"February 7, 2018","California","Fremont","45000 block of Little Foot Pl",0,2,"N/A",NA,NA
+"February 7, 2018","Alabama","Birmingham","4900 block of Brittan Street",0,1,"N/A",-86.7741035,33.5705087
+"February 7, 2018","North Carolina","Maiden","Fairview Dr",1,0,"N/A",-97.7592847,30.3304632
+"February 7, 2018","Tennessee","Nashville","1500 Porter Rd",1,0,"N/A",-86.727879,36.1932959
+"February 7, 2018","Connecticut","Bridgeport","Denver Ave",0,3,"N/A",-118.2848158,33.939512
+"February 7, 2018","Washington","Seattle","14th Ave S and S Trenton St",0,1,"N/A",NA,NA
+"February 7, 2018","Texas","San Marcos","Hutchinson St and Moon St",0,1,"N/A",-97.9377024,29.8847222
+"February 6, 2018","North Carolina","Sanford","200 block of Kathleen Terrace",0,1,"N/A",NA,NA
+"February 6, 2018","Indiana","Fort Wayne","1900 Pontiac St",0,3,"N/A",-120.8696089,37.7620432
+"February 6, 2018","Alabama","Montgomery","5800 block of Eagle Circle",0,3,"N/A",NA,NA
+"February 6, 2018","Ohio","Cleveland","E 104th St and Sandusky Ave",1,0,"N/A",NA,NA
+"February 6, 2018","Kentucky","Lexington","2107 Garden Springs Dr",1,1,"N/A",-84.5460733,38.0252421
+"February 5, 2018","North Carolina","Deep Run","Bryce Hardison Rd",1,0,"N/A",-77.758113,35.1122079
+"February 5, 2018","Maryland","Oxon Hill","6701 Leyte Dr",0,1,"N/A",-76.993634,38.797249
+"February 5, 2018","Oregon","Portland","16000 block of NW Rondos Dr",0,1,"N/A",NA,NA
+"February 5, 2018","Ohio","Miamisburg","125 Byers Rd",0,1,"N/A",-84.2354741,39.6397288
+"February 5, 2018","Illinois","Chicago","4600 S Ellis Ave",0,1,"N/A",-87.602302,41.811168
