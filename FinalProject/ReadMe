@@ -1,3 +1,10 @@
 ReadMe File
 
 This file contains information about the Gun Violence Application
+
+The Shiny App is available in the file app.R
+For Data Wrangling have two R scripts - GeoAddress.R and StateConverter.R
+CSV data files 
+Presentation PPT.
+Presentation Video.
+ProjectProposal.docx.
